@@ -32,16 +32,16 @@ This repository highlights my passion for data exploration and machine learning.
    - To Achieved: Designed a custom word embedding for domain-specific terms.
   
 ## Skills Demonstrated
-+**Data Wrangling:** Cleaning, transforming, and preprocessing raw datasets.
-+**Exploratory Data Analysis (EDA):** Creating compelling visualizations to uncover patterns.
-+**Machine Learning:** Building, training, and optimizing models (both supervised and unsupervised).
-+**Programming:** Proficient in Python, leveraging libraries like Pandas, NumPy, and Scikit-learn.
-+**Visualization:** Crafting detailed visualizations with Matplotlib, Seaborn, and Plotly.
+- **Data Wrangling:** Cleaning, transforming, and preprocessing raw datasets.
+- **Exploratory Data Analysis (EDA):** Creating compelling visualizations to uncover patterns.
+- **Machine Learning:** Building, training, and optimizing models (both supervised and unsupervised).
+- **Programming:** Proficient in Python, leveraging libraries like Pandas, NumPy, and Scikit-learn.
+- **Visualization:** Crafting detailed visualizations with Matplotlib, Seaborn, and Plotly.
 
 ## Environment and Tools
-+**Languages:** Python, SQL
-+**Libraries:** Scikit-learn, TensorFlow, Keras, Pytorch, Matplotlib, Seaborn, Plotly
-+**Platforms:** Kaggle Notebooks, Jupyter Notebook, Kanban
+- **Languages:** Python, SQL
+- **Libraries:** Scikit-learn, TensorFlow, Keras, Pytorch, Matplotlib, Seaborn, Plotly
+- **Platforms:** Kaggle Notebooks, Jupyter Notebook, Kanban
 
 ## How to Explore
 1. Clone this repository:
