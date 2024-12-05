@@ -4,10 +4,10 @@ Welcome to my Kaggle projects repository! This is a collection of my data scienc
 ## Table of Contents
 1. [Overview](#overview)
 2. [Key Projects](#key-projects)
-   - [Titanic Survival Analysis](#titanic-machine-learning-from-disaster)
-   - [House Price Prediction](#house-prices-advanced-regression-techniques)
-   - [Sentiment Analysis on Tweets](#natural-language-processing-with-disaster-tweets)
-3. [Skills Demonstrated](#skill-demonstrated)
+   - [Titanic Survival Analysis](#1.titanic-machine-learning-from-disaster)
+   - [House Price Prediction](#2.house-prices-advanced-regression-techniques)
+   - [Sentiment Analysis on Tweets](#3.natural-language-processing-with-disaster-tweets)
+3. [Skills Demonstrated](#skills-demonstrated)
 4. [Environment and Tools](#environment-and-tools)
 5. [How to Explore](#how-to-explore)
 6. [Future Plans](#future-plans)
@@ -34,7 +34,7 @@ This repository highlights my passion for data exploration and machine learning.
    - Techniques: Natural Language Processing (NLP), TF-IDF, and neural networks.
    - To Achieved: Designed a custom word embedding for domain-specific terms.
   
-## Skill Demonstrated
+## Skills Demonstrated
 +**Data Wrangling:** Cleaning, transforming, and preprocessing raw datasets.
 +**Exploratory Data Analysis (EDA):** Creating compelling visualizations to uncover patterns.
 +**Machine Learning:** Building, training, and optimizing models (both supervised and unsupervised).
