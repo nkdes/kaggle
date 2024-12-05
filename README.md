@@ -7,7 +7,7 @@ Welcome to my Kaggle projects repository! This is a collection of my data scienc
    - [Titanic Survival Analysis](#titanic-machine-learning-from-disaster)
    - [House Price Prediction](#house-prices-advanced-regression-techniques)
    - [Sentiment Analysis on Tweets](#natural-language-processing-with-disaster-tweets)
-3. [Skills Demonstrated](#skills-demonstrated)
+3. [Skills Demonstrated](#skill-demonstrated)
 4. [Environment and Tools](#environment-and-tools)
 5. [How to Explore](#how-to-explore)
 6. [Future Plans](#future-plans)
