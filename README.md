@@ -44,7 +44,7 @@ This repository highlights my passion for data exploration and machine learning.
 - **Platforms:** Kaggle Notebooks, Jupyter Notebook, Kanban
 
 ## How to Explore
-1. Clone this repository:
+1. Clone this repository
 2. Navigate to a project folder to explore the code and results
 3. View detailed notebooks for reproducible workflows and visualizations
 
